@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(255, 252, 252);
+    box-shadow: rgb(0, 0, 0) 10px 5px  ;
+    padding: 15px;
+    margin: 25px;
+    border: solid rgb(250, 243, 18) 10px;
+}
+
+textarea {
+    resize: none;
+    width: 1000px;
+    height: 125px;
+}
+
